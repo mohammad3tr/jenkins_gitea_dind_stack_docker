@@ -1,4 +1,4 @@
-1- setup your mirrir repository
+1- setup your mirror repository
 
 2- see https://github.com/mohammad3tr/Docker-Registery.git
 
