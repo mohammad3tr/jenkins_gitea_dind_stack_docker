@@ -1,4 +1,5 @@
 ## gitea, jenkins, dind 
+```
 
 1- setup your mirror repository:see https://github.com/mohammad3tr/Docker-Registery.git
 
@@ -14,3 +15,4 @@
 6- http://<your url>:8080 # Jenkins UI
 
 7- http://<your url>:3000 # Gitea UI
+```
