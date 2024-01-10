@@ -1,0 +1,5 @@
+docker_certs 
+docker_certs_client 
+docker_data 
+gitea_data  
+jenkins_data
