@@ -12,7 +12,7 @@
 
 5-docker-compose up -d
 
-6- http://your url:8080                                               # Jenkins UI
+6- http://your_url:8080                                               # Jenkins UI
 
-7- http://your url:3000                                               # Gitea UI
+7- http://your_url:3000                                               # Gitea UI
 
