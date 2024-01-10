@@ -1,4 +1,5 @@
-1- detup your mirrir repository
+1- setup your mirrir repository
+
 2- see https://github.com/mohammad3tr/Docker-Registery.git
 
 3- vim Dockerfile-dind and set your mirror repoistory address that setup in step1
