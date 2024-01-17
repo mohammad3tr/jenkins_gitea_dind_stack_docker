@@ -2,7 +2,7 @@
 
 
 1- setup your mirror repository:
-see:
+### see:
 https://github.com/mohammad3tr/Docker-Registery.git
 OR
 https://github.com/mohammad3tr/Docker_Registery_cache_private.git
