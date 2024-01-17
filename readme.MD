@@ -1,7 +1,7 @@
 ## gitea, jenkins, dind 
 
 
-1- setup your mirror repository:
+1- setup your mirror repository if you need to:
 ### see:
 https://github.com/mohammad3tr/Docker-Registery.git
 #### OR
