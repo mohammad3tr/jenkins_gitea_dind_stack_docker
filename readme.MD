@@ -4,7 +4,7 @@
 1- setup your mirror repository:
 ### see:
 https://github.com/mohammad3tr/Docker-Registery.git
-OR
+####OR
 https://github.com/mohammad3tr/Docker_Registery_cache_private.git
 
 3- vim Dockerfile-dind and set your mirror repoistory address that setup in step1
