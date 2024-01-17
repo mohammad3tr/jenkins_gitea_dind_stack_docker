@@ -7,6 +7,8 @@ https://github.com/mohammad3tr/Docker-Registery.git
 #### OR
 https://github.com/mohammad3tr/Docker_Registery_cache_private.git
 
+2- git clone https://github.com/mohammad3tr/jenkins_gitea_dind_stack_docker.git
+
 3- vim Dockerfile-dind and set your mirror repoistory address that setup in step1
 
   
